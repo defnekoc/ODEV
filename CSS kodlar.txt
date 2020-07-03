@@ -1,0 +1,119 @@
+.topbar{
+    width:1350px;
+    height:50px;
+    background-color:#242736;
+}
+.sidebar{
+    width:211px;
+    height:549px;
+    background-color:#1e263b;
+    margin-top:2px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 210px;
+  background-color:#1e263b;
+  border-top: 1px solid #555;
+  border-bottom:1px solid #555;
+}
+
+li a {
+  display: block;
+  color:white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li {
+  text-align: left;
+  border-bottom: 1px solid #555;
+}
+li:last-child {
+  border-bottom: none;
+}
+
+li a.active {
+  background-color: #505b71;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color:#283662;
+  color: white;
+}
+.sideborder{
+    border-top:solid;
+    border-width:2px;
+    margin-top:90px;
+    color:#26769d;
+
+}
+.anaarkaplan{
+    width:1140px;
+    height:548px;
+    background-color:#EDEDED;
+    margin-left:210px;
+}
+.anabölüm{
+    width:1135px;
+    height:140px;
+    background-color:#FAFAFA;
+    margin-left:5px;
+    margin-top:-548px;
+}
+.kart1{
+    border:1px solid grey;
+    width:265px;
+    height:170px;
+    background-color:#FAFAFA;
+    margin-left:px;
+    margin-top:20px;
+
+}
+.kart2{
+    border:1px solid grey ;
+    width:265px;
+    height:170px;
+    background-color:#FAFAFA;
+    margin-left:285px;
+    margin-top:-171px;
+
+}
+.kart3{
+    border:1px solid grey ;
+    width:265px;
+    height:170px;
+    background-color:#FAFAFA;
+    margin-left:570px;
+    margin-top:-172px;
+
+}
+.kart4{
+    border:1px solid grey ;
+    width:265px;
+    height:170px;
+    background-color:#FAFAFA;
+    margin-left:px;
+    margin-top:15px;
+
+}
+.kart5{
+    border:1px solid grey ;
+    width:265px;
+    height:170px;
+    background-color:#FAFAFA;
+    margin-left:285px;
+    margin-top:-171px;
+
+}
+.kart6{
+    border:1px solid grey ;
+    width:265px;
+    height:170px;
+    background-color:#FAFAFA;
+    margin-left:570px;
+    margin-top:-172px;
+
+}

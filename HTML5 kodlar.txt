@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Finalodev</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+<div class="topbar">
+    <i class="fas fa-bars" style="color:#505b71;font-size:20px;margin:15px;"></i>
+
+    <i class='far fa-calendar-alt' style="font-size:20px;margin-left:1100px;color:white;margin-top:-80px;"></i>
+    <i class="fas fa-circle" style="color:green;font-size:17px;margin-left:-12px;vertical-align:top;margin-top:7px;"><span style="color:white;font-size:12px;margin-left:-14px;">29</span></i>
+    <i class='far fa-newspaper' style="font-size:20px;color:white;margin-left:20px;"></i>
+    <span style="color:white;margin-left:20px;">Defne<i class="fas fa-chevron-down" style="margin-left:5px;"></i> </span>
+    <h1 style="margin-left:50px;color:white;margin-top:-45px;letter-spacing:-7px;">SAP</h1>
+    <p style="margin-left:120px;color:white;margin-top:-55px;font-size:28px;">Cloud Platform Cockpit</p>
+
+
+</div>
+<div class="sidebar">
+<ul>
+    <li><a href="#"><span><i class="fas fa-box" style="color:white;padding-right:10px;"></i></span>Applications</a></li>
+
+  <li><a href="#"><span><i class='fas fa-puzzle-piece'style="padding-right:10px;"></i></span>Services <span><i class="fas fa-chevron-down" style="color:white;margin-left:70px;"></i></span></a></li>
+  <li><a class="active" href="#contact">Service Marketplace</a></li>
+  <li><a class="active" href="#">Service Instances</a></li>
+  <li><a class="active" href="#">User-Provided Services</a></li>
+    <li><a href="#"><span><i class='fas fa-cube'style="padding-right:10px;"></i></span>SAP HANA <span><i class="fas fa-chevron-right" style="color:white;margin-left:48px;"></i></span></a></li>
+  <li><a href="#"><span><i class='fas fa-th'style="padding-right:10px;"></i></span>Portal</a></li>
+  <li><a href="#"><span><i class='fas fa-bullseye'style="padding-right:10px;"></i></span>Routes</a></li>
+    <li><a href="#"><span><i class='fas fa-user-lock'style="padding-right:10px;"></i></span>Security Groups</a></li>
+  <li><a href="#"><span><i class='far fa-calendar-alt'style="padding-right:10px;"></i></span>Events</a></li>
+  <li><a href="#"><span><i class='far fa-user'style="padding-right:10px;"></i></span>Members</a></li>
+
+</ul>
+<div class="sideborder"></div>
+<ul>
+    <li><a href="#"><span><i class="fa fa-info-circle" style="padding-right:10px;"></i></span>Useful Links</a> </li>
+    <li><a href="#"><span><i class="fas fa-balance-scale" style="padding-right:10px;"></i></span>Legal Information</a> </li>
+</ul>
+
+
+
+</div>
+<div class="anaarkaplan">
+<div class="anabölüm">
+    <i class="fa fa-home"style="margin:5px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;">Home[Europe (rot) trial]</span>
+    <span style="margin:5px;color:8cbed7;"> / </span>
+    <i class="fas fa-globe"style="color:#8cbed7;"></i>
+    <span style="color:#8cbed7;">Europe(Frankfurt) <i class="fas fa-chevron-down" style="margin-left:5px;color:#8cbed7;"></i></span>
+    <span style="margin:5px;color:#8cbed7;"> / </span>
+    <i class="far fa-copy" style="color:#8cbed7;"></i>
+    <span style="color:#8cbed7;">P2000370742trial</span>
+    <span style="margin:5px;color:#8cbed7;"> / </span>
+    <i class='fas fa-project-diagram' style="color:#8cbed7;"></i>
+    <span style="color:#8cbed7;">trial</span>
+    <span style="margin:5px;color:#8cbed7;"> / </span>
+    <i class='far fa-calendar'style="color:#8cbed7;"></i>
+    <span style="color:#8cbed7;">dev</span>
+    <br><br>
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:22px;"></i>
+    <span style="font-size:22px;font-style:bold;">Space: dev - Market Place</span>
+    <i class='far fa-question-circle'style="margin-left:810px;"></i>
+    <br><br>
+    <span style="margin-left:10px;">all:18</span>
+    <input type="text" placeholder="Search" style="margin-left:920px;margin-top:-20px;">
+
+<div class="kart1">
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:18px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;font-style:bold;">API Management</span>
+    <p style="margin-left:5px;">api-management</p>
+    <i class='fas fa-sitemap'style="margin-left:10px;font-size:28px;color:#8cbed7;"></i>
+    <span style="margin-left:15px;">Expose your data and processes as APIs for omni-channel consumption and manage the lifecvcle of those APIs.</span>
+
+</div>
+<div class="kart2">
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:18px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;font-style:bold;">Application Autoscaler</span>
+    <p style="margin-left:5px;">autoscaler</p>
+    <i class='fas fa-external-link-alt'style="margin-left:10px;font-size:28px;color:#8cbed7;"></i>
+    <span style="margin-left:15px;">Automatically increase or decrease the number of application instances based on a policy you define.</span>
+</div>
+<div class="kart3">
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:18px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;font-style:bold;">Application Logging</span>
+    <p style="margin-left:5px;">application-logs</p>
+    <i class='fas fa-chart-bar'style="margin-left:10px;font-size:28px;color:#8cbed7;"></i>
+    <span style="margin-left:15px;">Create, store, access, and analyze application logs.
+
+</div>
+<div class="kart4">
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:18px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;font-style:bold;">Authorization & Trust Managem...</span>
+    <p style="margin-left:5px;">xsuaa</p>
+    <i class='fas fa-user-lock'style="margin-left:10px;font-size:28px;color:#8cbed7;"></i>
+    <span style="margin-left:15px;">Manage application authorizations and trust to identity providers.</span>
+</div>
+<div class="kart5">
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:18px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;font-style:bold;">Business Rules</span>
+    <p style="margin-left:5px;">business-rules</p>
+    <i class="fas fa-puzzle-piece"style="margin-left:10px;font-size:28px;color:black;"></i>
+    <span style="margin-left:15px;">business-rules</span>
+</div>
+<div class="kart6">
+    <i class="fas fa-puzzle-piece"style="margin:5px;font-size:18px;color:#8cbed7;"></i>
+    <span style="color:#8cbed7;font-style:bold;">connectivity</span>
+    <p style="margin-left:5px;">connectivity</p>
+    <i class="fas fa-puzzle-piece"style="margin-left:10px;font-size:28px;color:black;"></i>
+    <span style="margin-left:15px;">Establishes a secure and reliable connectivity between cloud applications and on-premise systems.</span>
+</div>
+
+
+
+</div>
+</div>
+</body>
+</html>
